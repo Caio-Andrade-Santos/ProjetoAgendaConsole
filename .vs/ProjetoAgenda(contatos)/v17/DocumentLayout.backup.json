@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgenda(contatos)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92314DAA-7C0D-4460-B780-8EFBEF06DD67}|ProjetoAgenda(contatos)\\ProjetoAgenda(contatos).csproj|c:\\users\\cavia\\onedrive\\documentos\\estudos\\c#\\projetoagenda(contatos)\\projetoagenda(contatos)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92314DAA-7C0D-4460-B780-8EFBEF06DD67}|ProjetoAgenda(contatos)\\ProjetoAgenda(contatos).csproj|solutionrelative:projetoagenda(contatos)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92314DAA-7C0D-4460-B780-8EFBEF06DD67}|ProjetoAgenda(contatos)\\ProjetoAgenda(contatos).csproj|c:\\users\\cavia\\onedrive\\documentos\\estudos\\c#\\projetoagenda(contatos)\\projetoagenda(contatos)\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92314DAA-7C0D-4460-B780-8EFBEF06DD67}|ProjetoAgenda(contatos)\\ProjetoAgenda(contatos).csproj|solutionrelative:projetoagenda(contatos)\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92314DAA-7C0D-4460-B780-8EFBEF06DD67}|ProjetoAgenda(contatos)\\ProjetoAgenda(contatos).csproj|c:\\users\\cavia\\onedrive\\documentos\\estudos\\c#\\projetoagenda(contatos)\\projetoagenda(contatos)\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92314DAA-7C0D-4460-B780-8EFBEF06DD67}|ProjetoAgenda(contatos)\\ProjetoAgenda(contatos).csproj|solutionrelative:projetoagenda(contatos)\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92314DAA-7C0D-4460-B780-8EFBEF06DD67}|ProjetoAgenda(contatos)\\ProjetoAgenda(contatos).csproj|c:\\users\\cavia\\onedrive\\documentos\\estudos\\c#\\projetoagenda(contatos)\\projetoagenda(contatos)\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92314DAA-7C0D-4460-B780-8EFBEF06DD67}|ProjetoAgenda(contatos)\\ProjetoAgenda(contatos).csproj|solutionrelative:projetoagenda(contatos)\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92314DAA-7C0D-4460-B780-8EFBEF06DD67}|ProjetoAgenda(contatos)\\ProjetoAgenda(contatos).csproj|c:\\users\\cavia\\onedrive\\documentos\\estudos\\c#\\projetoagenda(contatos)\\projetoagenda(contatos)\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92314DAA-7C0D-4460-B780-8EFBEF06DD67}|ProjetoAgenda(contatos)\\ProjetoAgenda(contatos).csproj|solutionrelative:projetoagenda(contatos)\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgenda(contatos)\\ProjetoAgenda(contatos)\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoAgenda(contatos)\\Program.cs",
+              "ToolTip": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgenda(contatos)\\ProjetoAgenda(contatos)\\Program.cs*",
+              "RelativeToolTip": "ProjetoAgenda(contatos)\\Program.cs*",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAwwJUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T18:28:50.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contatos.cs",
+              "DocumentMoniker": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgenda(contatos)\\ProjetoAgenda(contatos)\\Contatos.cs",
+              "RelativeDocumentMoniker": "ProjetoAgenda(contatos)\\Contatos.cs",
+              "ToolTip": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgenda(contatos)\\ProjetoAgenda(contatos)\\Contatos.cs",
+              "RelativeToolTip": "ProjetoAgenda(contatos)\\Contatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T19:13:33.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgenda(contatos)\\ProjetoAgenda(contatos)\\Contato.cs",
+              "RelativeDocumentMoniker": "ProjetoAgenda(contatos)\\Contato.cs",
+              "ToolTip": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgenda(contatos)\\ProjetoAgenda(contatos)\\Contato.cs*",
+              "RelativeToolTip": "ProjetoAgenda(contatos)\\Contato.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAA6wC8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:10:48.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Telefone.cs",
+              "DocumentMoniker": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgenda(contatos)\\ProjetoAgenda(contatos)\\Telefone.cs",
+              "RelativeDocumentMoniker": "ProjetoAgenda(contatos)\\Telefone.cs",
+              "ToolTip": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgenda(contatos)\\ProjetoAgenda(contatos)\\Telefone.cs",
+              "RelativeToolTip": "ProjetoAgenda(contatos)\\Telefone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T18:04:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgenda(contatos)\\ProjetoAgenda(contatos)\\Data.cs",
+              "RelativeDocumentMoniker": "ProjetoAgenda(contatos)\\Data.cs",
+              "ToolTip": "C:\\Users\\cavia\\OneDrive\\Documentos\\Estudos\\C#\\ProjetoAgenda(contatos)\\ProjetoAgenda(contatos)\\Data.cs",
+              "RelativeToolTip": "ProjetoAgenda(contatos)\\Data.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T17:55:38.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

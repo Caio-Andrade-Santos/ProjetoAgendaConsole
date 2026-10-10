@@ -1,0 +1,14 @@
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\bin\Debug\net8.0\ProjetoAgenda(contatos).exe
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\bin\Debug\net8.0\ProjetoAgenda(contatos).deps.json
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\bin\Debug\net8.0\ProjetoAgenda(contatos).runtimeconfig.json
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\bin\Debug\net8.0\ProjetoAgenda(contatos).dll
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\bin\Debug\net8.0\ProjetoAgenda(contatos).pdb
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\obj\Debug\net8.0\ProjetoAgenda(contatos).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\obj\Debug\net8.0\ProjetoAgenda(contatos).AssemblyInfoInputs.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\obj\Debug\net8.0\ProjetoAgenda(contatos).AssemblyInfo.cs
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\obj\Debug\net8.0\ProjetoAgenda(contatos).csproj.CoreCompileInputs.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\obj\Debug\net8.0\ProjetoAgenda(contatos).dll
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\obj\Debug\net8.0\refint\ProjetoAgenda(contatos).dll
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\obj\Debug\net8.0\ProjetoAgenda(contatos).pdb
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\obj\Debug\net8.0\ProjetoAgenda(contatos).genruntimeconfig.cache
+C:\Users\cavia\OneDrive\Documentos\Estudos\C#\ProjetoAgenda(contatos)\ProjetoAgenda(contatos)\obj\Debug\net8.0\ref\ProjetoAgenda(contatos).dll
